@@ -6,9 +6,9 @@
 
 ### Links and Resources
 
-- [submission PR]()
-- [ci/cd]() (GitHub Actions)
-- [netlify]()
+- [submission PR](https://github.com/401-advanced-javascript-AhmadK/routing-and-component-composition/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-AhmadK/routing-and-component-composition/actions) (GitHub Actions)
+- [netlify](https://sad-wright-533bf8.netlify.com)
 
 #### How to initialize/run your application (where applicable)
 
