@@ -1,0 +1,30 @@
+.history{
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    margin-bottom: 1vw;
+    li{
+        list-style-type: none;
+        text-decoration: none;
+        font-family: sans-serif;
+        font-weight: bold;
+        margin-left: 1vw;
+        padding-top: 0.5vw;
+        margin-bottom: 1vw;
+        color: black
+    }
+    button{
+        background-color: $headerBackground;
+        color: white;
+        font-family: $headerFont;
+        height: 3vw;
+        width: 5vw;
+        margin-right: 1vw;
+        margin-top: 0.5vw;
+        float: right;
+    }
+    div{
+        margin: 0 auto;
+        margin-left: 1vw;
+    }
+}
