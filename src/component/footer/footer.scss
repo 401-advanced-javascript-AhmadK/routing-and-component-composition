@@ -1,0 +1,12 @@
+footer{
+    background-color: $headerBackground;
+    height: 50px;
+    clear: both;
+    p{
+        text-align: center;
+        font-family: $headerFont;
+        font-size: 20px;
+        padding-top: 1%;
+        color: white;
+    }
+}
